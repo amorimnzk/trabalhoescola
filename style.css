@@ -20,10 +20,14 @@ header a{
 	color: white;
 	text-decoration: none;
 }
+header a:hover{
+    color: red;
+}
 
 main .slide{
-	background: url("");
+	background: url("/tmp/guest-jkvczk/Área de trabalho/projetogit/banner-principal.png");
 	width: 100%;
 	height: 450px;
 	background-repeat: no-repeat;
+    
 }
