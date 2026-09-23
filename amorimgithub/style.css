@@ -31,6 +31,12 @@ header a {
 header a:hover {
     color: red;
 }
+header a:active{
+    color: blue;
+}
+header a:visited{
+    color: purple;
+}
 
 main .slide {
     background: url("banner-principal.png");
